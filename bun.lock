@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "yhoundz.github.io",
+      "name": "alxrw.github.io",
       "devDependencies": {
         "@eslint/compat": "^1.4.0",
         "@eslint/js": "^9.38.0",

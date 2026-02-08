@@ -1,7 +1,7 @@
 <script>
 	const links = [
 		{ name: 'EMAIL', href: 'mailto:alexwang@utexas.edu', color: 'var(--color-acid-green)' },
-		{ name: 'GITHUB', href: 'https://github.com/yhoundz', color: 'var(--color-electric-blue)' },
+		{ name: 'GITHUB', href: 'https://github.com/alxrw', color: 'var(--color-electric-blue)' },
 		{
 			name: 'LINKEDIN',
 			href: 'https://www.linkedin.com/in/alexwang10/',

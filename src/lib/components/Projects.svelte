@@ -7,7 +7,7 @@
 			title: 'PARM',
 			subtitle: 'PACKAGE MANAGER CLI TOOL',
 			tags: ['Go', 'REST', 'Cobra'],
-			link: 'https://github.com/yhoundz/parm',
+			link: 'https://github.com/alxrw/parm',
 			rotation: '2deg',
 			desc: 'Install anything from your terminal. Cross platform package installer and lifecycle manager using GitHub REST.'
 		},
@@ -31,7 +31,7 @@
 			title: 'HELLBOUND TO HEAVEN',
 			subtitle: 'PHYSICS PLATFORMING GAME',
 			tags: ['GDScript', 'Godot'],
-			link: 'https://github.com/yhoundz/hellbound-to-heaven',
+			link: 'https://github.com/alxrw/hellbound-to-heaven',
 			rotation: '-2deg',
 			desc: 'Physics-based Platformer inspired by Jump King.'
 		}
